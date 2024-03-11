@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class Main {
-    // Unit tests
     public static void main(String[] args) {
         TrainTicketSystem ticketSystem = new TrainTicketSystem();
         User user1 = new User("Akshay", "Kumar", "akshay@kumar.com");
